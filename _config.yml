@@ -43,8 +43,9 @@ social_media:
   twitter: warrior__zz
   # unsplash: your_username
   # vk: your_username
-  website: https:twitch.tv/warrior_zz
+  # website: https:twitch.tv/warrior_zz
   # youtube: your_username
+  twitch: warrior_zz
 
 topics:
   - name: Kotlin
