@@ -27,7 +27,7 @@ projects:
     forks: true
     projects:
      - warriorzz
-     - schiffsschraube
+     - Schiffsschraube
 
 social_media:
   # behance: your_username
@@ -44,7 +44,7 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: https://bjarne.codes
+  # website: https://bjarne.codes
   # youtube: your_username
   twitch: warrior_zz
 
