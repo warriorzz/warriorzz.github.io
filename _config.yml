@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
@@ -27,6 +27,7 @@ projects:
     forks: true
     projects:
      - warriorzz
+     - schiffsschraube
 
 social_media:
   # behance: your_username
@@ -34,16 +35,16 @@ social_media:
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
-  # keybase: your_username
+  keybase: eberhardt
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: warrior__zz
+  # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: https:twitch.tv/warrior_zz
+  website: https://bjarne.codes
   # youtube: your_username
   twitch: warrior_zz
 
@@ -56,6 +57,6 @@ topics:
     web_url: https://en.wikipedia.org/wiki/Kiteboarding
     image_url: https://clipground.com/images/kiteboard-clipart-9.jpg
 
-  - name: Minecraft
-    web_url: https://github.com/topics/minecraft
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png
+  - name: Web
+    web_url: https://github.com/topics/web
+    image_url: https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png
