@@ -47,6 +47,7 @@ social_media:
   # website: https://bjarne.codes
   # youtube: your_username
   twitch: warrior_zz
+  matrix: @bjarne:bjarne.codes
 
 topics:
   - name: Kotlin
