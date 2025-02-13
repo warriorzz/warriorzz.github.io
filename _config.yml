@@ -35,7 +35,7 @@ social_media:
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
-  keybase: eberhardt
+  # keybase: eberhardt
   linkedin: bjarne-eberhardt
   # mastodon: your_username
   # medium: your_username
@@ -44,10 +44,10 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: https://bjarn.ee
+  website: https://n.ethz.ch/~beberhardt/
   # youtube: your_username
   # twitch: warrior_zz
-  matrix: bjarne:eberhardt.be
+  # matrix: bjarne:eberhardt.be
 
 topics:
   - name: Kotlin
